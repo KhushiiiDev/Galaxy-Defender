@@ -1,2 +1,2 @@
-# Click-bait-project
+# Space game
 A clicker game 
